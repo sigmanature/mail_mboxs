@@ -1,0 +1,1 @@
+用来保存感兴趣的maillist中的mbox
